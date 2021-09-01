@@ -33,8 +33,8 @@
     "url": "git://github.com/summernote/angular-summernote.git"
   },
   "dependencies": {
-    "summernote": "~0.7.0",
-    "angular": "~1.4.0"
+    "summernote": "https://github.com/getslash-github/summernote.git#0.7.3.1",
+    "angular": "https://github.com/getslash-github/bower-angular.git#1.3.20"
   },
   "devDependencies": {
     "angular-1.2": "https://raw.githubusercontent.com/angular/bower-angular/v1.2.26/angular.min.js",
